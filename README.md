@@ -1,2 +1,2 @@
-# tboo-store
+# TBOO STORE
 Game Top Up
